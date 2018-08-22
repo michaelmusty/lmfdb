@@ -24,3 +24,5 @@ It would be nice if:
 - tripleredabs?
 - display info about group
 - download curve/map in magma then in sage and/or pari
+- listed specializations at nice values of t to get number fields, link these in LMFDB
+
